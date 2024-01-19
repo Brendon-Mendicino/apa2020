@@ -1,0 +1,17 @@
+La sequenza "no" e' contenuta in <riga,colonna>:
+Non <1,1>, non <2,47>, nonostante <3,41>, non <4,21>, turno. <5,23>, 
+
+La sequenza "Al" e' contenuta in <riga,colonna>:
+alla <1,36>, al <2,22>, all’esempio <2,33>, iniziali. <4,1>, allora <4,37>, all’esercitatore <5,1>, 
+
+La sequenza "per" e' contenuta in <riga,colonna>:
+
+
+La sequenza "s" e' contenuta in <riga,colonna>:
+sempre <1,5>, si <1,12>, capisce <1,15>, esercizio <1,26>, prestando <2,1>, testo <2,25>, all’esempio <2,33>, essere <2,60>, impossibile <3,1>, scrivere <3,13>, 
+
+Non sempre si capisce un esercizio alla prima lettura, ma
+prestando attenzione al testo e all’esempio non dovrebbe essere
+impossibile scrivere codice funzionante nonostante i dubbi
+iniziali. Se ancora non si capisce, allora basta chiedere
+all’esercitatore di turno.

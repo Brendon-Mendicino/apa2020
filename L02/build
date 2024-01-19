@@ -1,0 +1,3 @@
+#!/bin/bash
+gcc -g E03.c -o E03.o -Wall
+./E03.o
